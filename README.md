@@ -14,5 +14,5 @@
 [![](https://visitcount.itsvg.in/api?id=SaturnAnton&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # MY PERSONAL WEBSITE
-Check my [Personal Website](https://antongiulio-personal-website.vercel.app/)
-![Anteprima del sito](public/screenshot.png)
+![Anteprima del sito](screenshot.png)
+CHECK MY [PERSONAL WEBSITE](https://antongiulio-personal-website.vercel.app/)
