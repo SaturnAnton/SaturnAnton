@@ -12,7 +12,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaturnAnton&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 [![](https://visitcount.itsvg.in/api?id=SaturnAnton&icon=0&color=0)](https://visitcount.itsvg.in)
-
-# MY PERSONAL WEBSITE
-![Anteprima del sito](screenshot.png)
-CHECK MY [PERSONAL WEBSITE](https://antongiulio-personal-website.vercel.app/)
