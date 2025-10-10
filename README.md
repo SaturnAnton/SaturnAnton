@@ -1,4 +1,4 @@
-## Hi, I'm Antongiulio(Anton for friends )📚
+## Hi, I'm Antongiulio (Anton for friends )📚
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_antongiulio.d) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:antongiuliodonno1@gmail.com) 
